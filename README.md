@@ -8,5 +8,5 @@ github personal portfolio website
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saurabhnikam_)
 
 
-### Github username : [saurah-nikam(github.com/saurabh-nikam)]
+### Github username : saurah-nikam(github.com/saurabh-nikam)
 ### Email id : saurabhnikam.sn@gmail.com
